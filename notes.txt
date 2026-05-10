@@ -1,0 +1,3 @@
+Linia 1: Invat Git
+Linia 2: DevOps e viitorul
+Linia 3: 2026 e anul meu
